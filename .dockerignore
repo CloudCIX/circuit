@@ -1,0 +1,12 @@
+# We also will ignore the following to bring container size down
+.git
+.gitignore
+.gitlab
+.gitlab-ci.yml
+.dockerignore
+publish.sh
+CHANGELOG.md
+Dangerfile
+README.md
+configure_test.sh
+docker-compose.yml
